@@ -1,0 +1,29 @@
+# Core dependencies
+loguru
+mkdocs
+pip
+python-dotenv
+ruff
+tqdm
+typer
+
+# Data processing
+pandas
+numpy
+scikit-learn
+
+# NLP and text processing
+nltk
+textblob
+textstat
+wordcloud
+
+# Visualization
+matplotlib
+seaborn
+
+# Statistical analysis
+scipy
+
+# Install project in editable mode
+-e .
